@@ -1,0 +1,11 @@
+body {
+  background-color: paleturquoise;
+  text-align: center;
+}
+.card {
+  margin-top: 10px;
+}
+
+.texto-footer {
+  font-size: medium;
+}
